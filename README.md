@@ -1,6 +1,6 @@
 # Cardiovascular Disease(CVD) Death rate analysis. 
 
-## Project Collaborator 
+## Project Collaborators 
 Chelsea Cullen,Meredith Walter,Julia Lee,Walgama Jayasekara,
  
 ## Background
