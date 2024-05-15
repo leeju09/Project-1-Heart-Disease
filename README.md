@@ -26,11 +26,8 @@ lung.org/research
 4.  Distribution of Heart disease among gender groups.
 
 ## Folder structure
-All the source code file (jupyter notebook) available at the root level.
-Resources folder: This folder contains all the resources data file.
-Project Proposal : This folder contain the project proposal.
-Outputs : This folder contains all the graphs. 
-Summary : final presentation with the conclusion. 
-
-
-1
+1.	All the source code file (jupyter notebook) available at the root level.
+2.	Resources folder: This folder contains all the resources data file. 
+3.	Project Proposal : This folder contain the project proposal.
+4. Outputs : This folder contains all the graphs. 
+5. Summary : final presentation with the conclusion. 
