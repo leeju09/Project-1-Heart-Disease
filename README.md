@@ -16,8 +16,8 @@ In this project analysis is limited to the counties only in Unites Sates of Amer
 Further analysis is limited to the demographic risk factor among various risk factors associated with the CVD death rate. 
 
 ## Data source
-catalog.data.gov
-lung.org/research
+1. catalog.data.gov
+2. lung.org/research
 
 ## Area of analysis
 1.	Geographic distribution of the CVD death rate.
