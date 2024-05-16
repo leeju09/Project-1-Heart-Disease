@@ -30,4 +30,11 @@ Further analysis is limited to the demographic risk factor among various risk fa
 2.	Resources folder: This folder contains all the resources data file. 
 3.	Project Proposal : This folder contain the project proposal.
 4. Outputs : This folder contains all the graphs. 
-5. Summary : final presentation with the conclusion. 
+5. Summary : final presentation with the conclusion.
+   
+## Details of the analysis codes (jupyter notebooks)
+1.	Heartdisease.ipynb: Codes related to the data cleating process.
+2.	geographic_CVD.ipynb : Codes related to states geographic analysis and the correlation of the smoking death rate and CVD death rates. 
+3.	Julia-Ethnicity.ipynb : Codes related to the ethnicity distribution of the CVD death rate.
+4. states_breakdown.ipynb : codes related to the Minnesota states CVD death  rate analysis.
+5. Mer.ipynb : Codes related to the gender analysis of the CVD deat rate. 
