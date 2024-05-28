@@ -47,7 +47,7 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - [National CVD death rate by gender.](Outputs/gender.png)
 - [County CVD death rate of the Minnesota compared to the states average. ](Outputs/states2.png)
 - [Geographic distribution of the CVD death rate of Minnesota state. ](Outputs/states4.png)
-- -  [Correlation between smoking and CVD death rate ](Outputs/wa_smoking_vs_death.png)
+- [Correlation between smoking and CVD death rate ](Outputs/wa_smoking_vs_death.png)
    
 ## Details of the analysis codes (jupyter notebooks)
 - [Heartdisease.ipynb: Codes related to the data cleating process.](Heartdisease.ipynb)
