@@ -54,6 +54,7 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - [Julia-Ethnicity.ipynb : Codes related to the ethnicity distribution of the CVD death rate.](Julia-Ethnicity.ipynb) 
 - [states_breakdown.ipynb : codes related to the Minnesota states CVD death  rate analysis.]([states_breakdown.ipynb) 
 - [Mer.ipynb : Codes related to the gender analysis of the CVD deat rate.](Mer.ipynb)
+-  [Correlation between smoking and CVD death rate ](Outputs/wa_smoking_vs_death.png)
 
 ## Summary of the analysis
 - Higher CVD death rates can be seen in the south regions of the country having above the country average.
