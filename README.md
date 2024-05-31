@@ -64,7 +64,8 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - There is a positive relationship between smoking rate and the CVD death rate.
 - CVD death rate of Minnesota fell top lowest among the states.
 - Western side of Minnesota is where the top 2 areas from cvd death occurred.
-- 
+
+[Summary Report](Summary/SummaryoftheStudy.docx)
 
 ## Next  stage 
 Seeing the summary of the analysis it is noticeable that the southern area of the country having higher CVD death rate.
