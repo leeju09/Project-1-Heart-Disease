@@ -65,7 +65,7 @@ Further analysis is limited to the demographic risk factor among various risk fa
 - CVD death rate of Minnesota fell top lowest among the states.
 - Western side of Minnesota is where the top 2 areas from cvd death occurred.
 
-[Summary Report](Summary/SummaryoftheStudy .docx)
+[Summary Report](Summary/SummaryoftheStudy.docx)
 
 ## Next  stage 
 Seeing the summary of the analysis it is noticeable that the southern area of the country having higher CVD death rate.
